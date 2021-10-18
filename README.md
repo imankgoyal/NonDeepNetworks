@@ -1,7 +1,7 @@
 <img src="img/parnet.png" align="right" width="45%"/>
 
 [**Non-deep Networks**](https://arxiv.org/abs/2110.07641) <br>
-***arxiv.2110.07641*** <br>
+***arXiv:2110.07641*** <br>
 [Ankit Goyal](http://imankgoyal.github.io), [Alexey Bochkovskiy](http://www.alexeyab.com/), [Jia Deng](https://www.cs.princeton.edu/~jiadeng/), [Vladlen Koltun](http://vladlen.info/)<br/>
 
 <div align="justify">
@@ -13,7 +13,7 @@ If you find our work useful, please consider citing it:
 @article{goyal2021nondeep,
   title={Non-deep Networks},
   author={Goyal, Ankit and Bochkovskiy, Alexey and Deng, Jia and Koltun, Vladlen},
-  journal={arxiv},
+  journal={arXiv:2110.07641},
   year={2021}
 }
 ```
