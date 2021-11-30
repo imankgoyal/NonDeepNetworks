@@ -18,6 +18,6 @@ If you find our work useful, please consider citing it:
 }
 ```
 
-## Code Coming Soon!
+### Update: Thank you so much for the patience. We have had a slight delay in releasing the code. We hope to release a version of the code by the end of the year. We sincerely regret any inconvinience. In the meanwhile, we would be happy to answer any question or confusion regarding our model architecture. Some third party authors have been able to reproduce our numbers with the information in the paper. Again, we sincerely regret any inconvinience.
 
 
