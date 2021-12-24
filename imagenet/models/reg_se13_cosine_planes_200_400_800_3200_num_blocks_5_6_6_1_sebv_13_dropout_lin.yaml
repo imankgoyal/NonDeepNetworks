@@ -1,0 +1,13 @@
+additional_branches:
+- - swish
+dropout_lin: 0.1
+num_blocks:
+- 5
+- 6
+- 6
+- 1
+planes:
+- 200
+- 400
+- 800
+- 3200

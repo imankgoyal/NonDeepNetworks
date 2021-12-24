@@ -1,0 +1,15 @@
+additional_branches:
+- - swish
+dropout_lin: 0.1
+num_blocks:
+- 5
+- 6
+- 6
+- 1
+planes:
+- 160
+- 320
+- 640
+- 2560
+weights: "models/planes_160_320_640_2560_num_blocks_5_6_6_1_sebv_13_dropout_lin.pth.tar"
+use_ema: True

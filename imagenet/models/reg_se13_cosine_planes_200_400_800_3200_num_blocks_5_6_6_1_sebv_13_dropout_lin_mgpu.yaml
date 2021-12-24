@@ -1,0 +1,15 @@
+additional_branches:
+- - swish
+dropout_lin: 0.1
+num_blocks:
+- 5
+- 6
+- 6
+- 1
+planes:
+- 200
+- 400
+- 800
+- 3200
+weights: "models/reg_se13_cosine_planes_200_400_800_3200_num_blocks_5_6_6_1_sebv_13_dropout_lin.pth.tar"
+use_ema: True
