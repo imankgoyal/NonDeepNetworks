@@ -26,7 +26,7 @@ pip3 install torch==1.8.2+cu111 torchvision==0.9.2+cu111 torchaudio==0.8.2 -f ht
 
 ### Validate on ImageNet (ILSVRC2012-val)
 
-Download pre-trained weights-files to the `/models/` directory from: (in progress)
+Download pre-trained weights-files to the `/models/` directory from: https://github.com/imankgoyal/NonDeepNetworks/releases/tag/v.0.1.0
 
 Take a look at examples of validation commands: `validate_models.sh`. Make sure to replace `<path-to-imagenet>` with the correct path.
 
