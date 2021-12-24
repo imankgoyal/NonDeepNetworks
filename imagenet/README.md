@@ -79,7 +79,7 @@ Fine-tune pre-trained ParNet-XL model for 16 epochs with high resolution 320x320
 ## Licenses
 
 ### Code
-The code here is licensed Apache 2.0. 
+The code here is licensed BSD 3-Clause License. 
 
 ## Acknowledgements
 Our work builds on and uses code from [timm](https://github.com/rwightman/pytorch-image-models). We'd like to thank the authors for making these libraries available.
