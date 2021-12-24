@@ -6,7 +6,7 @@
 
 ```
 git clone https://github.com/imankgoyal/NonDeepNetworks
-cd NonDeepNetworks
+cd NonDeepNetworks/imagenet
 pip install -r requirements.txt
 ```
 
