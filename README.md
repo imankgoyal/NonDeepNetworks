@@ -1,7 +1,7 @@
 <img src="img/parnet.png" align="right" width="45%"/>
 
 [**Non-deep Networks**](https://arxiv.org/abs/2110.07641) <br>
-***arXiv:2110.07641*** <br>
+***NeurIPS 2022*** <br>
 [Ankit Goyal](http://imankgoyal.github.io), [Alexey Bochkovskiy](http://www.alexeyab.com/), [Jia Deng](https://www.cs.princeton.edu/~jiadeng/), [Vladlen Koltun](http://vladlen.info/)<br/>
 
 <div align="justify">
@@ -17,5 +17,3 @@ If you find our work useful, please consider citing it:
   year={2021}
 }
 ```
-
-### Update: Thank you so much for the patience. The preliminary version for the imagenet dataset is available in the [imagenet](https://github.com/imankgoyal/NonDeepNetworks/tree/master/imagenet) folder.
